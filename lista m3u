@@ -66,7 +66,7 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música", KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://br.freepik.com/vetores-gratis/composicao-moderna-do-instagram-com-estilo-de-gradiente_3345416.htm#page=2&query=logo%20tv&from_query=logos%20tv&position=11&from_view=search" group-title ="Séries", Eu Apratroa e as Crianças
+#EXTINF:-1 tvg-logo="" group-title ="Séries", Eu Apratroa e as Crianças
 https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="WebTV", AniTV
