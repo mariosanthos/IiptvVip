@@ -1,6 +1,6 @@
 #EXTM3U
 
-#################mariosanthos##################
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/MpbGhLju5WdbZCRx8" group-title ="", mariosanthos
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
@@ -11,7 +11,7 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="Variedades",Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="Variedades",SBT Cidade Verde Picos (PI)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="Variedades", Cidade Verde Picos (PI)
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w2065807549.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Floresta (PA)
