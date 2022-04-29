@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/MpbGhLju5WdbZCRx8" group-title ="", mariosanthos
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/MpbGhLju5WdbZCRx8" group-title ="Variedades", mariosanthos
+https://youtu.be/FmkRN8eTBJg
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
