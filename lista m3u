@@ -99,7 +99,6 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Animes", AniTV
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="", Desenhos
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
 
@@ -113,7 +112,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="Desenhos", Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Desenhos", Os Simpsons
+#EXTINF:-1 tvg-logo="https://www.pixel4k.com/wp-content/uploads/2020/01/the-simpsons-tv-series_1578251457.jpg"group-title="Desenhos", Os Simpsons
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651383575/ei/tshtYpXiOZaLxgScvZuADg/ip/45.164.58.2/id/hpZqN5s8KxA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC2tvnU5Ut8d1vk0zQNMqk7aStS9E5xyxNMpoGg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALCJQmxmYap8jao9etVsAdRwe63O5FeIDiyy4SGOGR4jAiEAy-imQBoGt2pSEdKqXuI8nXh37a9NupskMH5Hsn35wLw%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Noticias
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
