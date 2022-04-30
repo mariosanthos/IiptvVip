@@ -74,14 +74,6 @@ https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="", Filmes
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
 
@@ -101,7 +93,7 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="Animes", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animestation.png" group-title=”Animes", Anime Station
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animestation.png" group-title="Animes", Anime Station
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Animes", AniTV
@@ -213,4 +205,4 @@ https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="WebTV", Anime TV - WebTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", ####### Rádios ########
+#EXTINF:-1 tvg-logo="" group-title="", Rádios
