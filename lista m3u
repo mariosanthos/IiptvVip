@@ -102,7 +102,7 @@ https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Desenhos
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
 
-#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="Desenhos", Os Jetson
+#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="Desenhos", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Desenhos", Retrô Cartoon
