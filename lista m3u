@@ -203,8 +203,3 @@ https://www.radios.com.br/play/playlist/11906/listen-radio.m3u
 https://www.radios.com.br/play/playlist/26442/listen-radio.m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio29663_1602254101.jpg" group-title="Radio Locais",Rádio Picos FM
 https://www.radios.com.br/play/playlist/29663/listen-radio.m3u
-#EXTINF:0, Rádio tamanho
-http://stream.radiojar.com/atr1e8aswa5tv.m3u
-
-#EXTINF:0, FIP Electro
-http://chai5she.cdn.dvmr.fr/fip-webradio8.mp3
