@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="", Canais Locais
+#EXTINF:-1 tvg-logo="" group-title="",📺 Canais Locais
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="Canais locais", Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -9,7 +9,7 @@ https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w2065
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="Canais locais", TV CAPITAL TERESINA
 https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Variedades
+#EXTINF:-1 tvg-logo="" group-title="", 🌍 Variedades
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -41,7 +41,7 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Pública",FDR - Futura (CE)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Variedades",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais
 http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
@@ -79,7 +79,7 @@ https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Filmes e Series
+#EXTINF:-1 tvg-logo="" group-title="",🎬 Filmes e Series
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title=" Filmes e Series", TV Series
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
@@ -88,7 +88,7 @@ https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 #EXTINF:-1 tvg-logo=" https://abre.ai/eqhy " group-title ="Filmes e Series", Eu A patroa e as Crianças https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="Filmes e Series", TV CINE - Chaves
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Animes
+#EXTINF:-1 tvg-logo="" group-title="",🎎 Animes
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="Animes", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -98,7 +98,7 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="WebTV",Loading - Web TV
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Desenhos
+#EXTINF:-1 tvg-logo="" group-title="",🧸 Desenhos
 https://lib.bz/video/site_gerou.mp4
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="Desenhos", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -108,15 +108,15 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="Desenhos", Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Noticias
+#EXTINF:-1 tvg-logo="" group-title="",📰 Noticias
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title=" Noticias", Record News
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Noticias", Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="Noticias", CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="Noticias", CCTV Noticias
 https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-logo="" group-title="", Religiosos
+#EXTINF:-1 tvg-logo="" group-title="",🙏 Religiosos
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Religioso",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
@@ -138,7 +138,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="Religioso",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Musicas
+#EXTINF:-1 tvg-logo="" group-title="", 🎶 Musicas
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -156,7 +156,7 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música", KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Web TV
+#EXTINF:-1 tvg-logo="" group-title="",🌏 Web TV
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="WebTV", Bons Tempos TV - WebTV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
@@ -174,5 +174,5 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="WebTV", Anime TV - WebTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Radio
+#EXTINF:-1 tvg-logo="" group-title="",📺 Radio
 https://lib.bz/video/site_gerou.mp4
